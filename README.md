@@ -45,7 +45,7 @@ Sou um entusiasta da programação apaixonado por criar bots úteis e criativos 
 ## 📬 Contato
 
 - 💬 Discord: `kalebinho0806`
-- Servidor: https://discord.gg/MC2qfeqVc2
+- 🌐 Servidor: https://discord.gg/MC2qfeqVc2
 - 📧 Email: kevindev@gmail.com
 ---
 
