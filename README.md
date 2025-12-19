@@ -38,7 +38,7 @@ Sou um entusiasta da programação apaixonado por criar bots úteis e criativos 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalebinho123&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
